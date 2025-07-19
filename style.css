@@ -1,0 +1,47 @@
+*{
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+body {
+    text-align: center;
+    background-color: rgb(144, 255, 246);
+}
+.btn {
+    height: 200px;
+    width: 200px;
+    border: solid black;
+    border-radius: 20px;
+    margin: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-container {
+    justify-content: center;
+    display: flex;
+    
+}
+.lineone {
+    justify-content: center;
+    display: flex;
+   
+}
+.yellow{
+    background-color: rgb(255, 255, 115);
+}
+.red {
+    background-color: rgb(255, 117, 117);
+}
+.green {
+    background-color: rgb(81, 251, 81);
+}
+.blue {
+    background-color: rgb(103, 103, 255);
+}
+.flash {
+    background-color: rgb(255, 255, 255);
+    box-shadow: white;
+}
